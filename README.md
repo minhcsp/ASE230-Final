@@ -36,3 +36,7 @@ Name: Minh, Password: minhpassword (this is a user account with a bunch of posts
 
 Name: Test, Password: testpassword (this is a user account with no posts)
 
+# Video:
+
+https://youtu.be/dPpgKc3IQN4
+
