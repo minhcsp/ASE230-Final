@@ -40,3 +40,6 @@ Name: Test, Password: testpassword (this is a user account with no posts)
 
 https://youtu.be/dPpgKc3IQN4
 
+# Slides
+
+https://docs.google.com/presentation/d/1_MOSovhYZDpzHJMD5ked1dhlWBZpcoUNLkjRd1I3CHQ/edit?pli=1#slide=id.g31d0b47d20b_0_0
